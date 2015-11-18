@@ -1,0 +1,14 @@
+The Norwegian extended keyboard layout is based on the standard Norwegian
+keyboard layout for Windows combined with the standard Norwegian keyboard
+layout distributed with most Linux variants. It is similar to the keyboard
+layout used by Mac OS X and resembles many touch keyboard layouts. See
+the layout/ directory for images of the keyboard layout
+
+Works with Windows Vista, 7, 8, 8.1, and 10.
+
+To modify and install from the sources, you need to download and install
+Microsoft Keyboard Layout Creator. (As a caveat, it must be installed to
+a path without space or any special characters.)
+https://www.microsoft.com/en-us/download/details.aspx?id=22339
+
+Binary installer can be downloaded from GitHub in the Releases section.
